@@ -1,5 +1,15 @@
-# React-Frontend Plugin Template [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/ZU74G2NJzk)
+# Decky Gog
 
+This is a [decky](https://github.com/SteamDeckHomebrew/decky-loader) plugin for managing Gog games.
+
+
+## usage
+
+- [Get decky setup](https://github.com/SteamDeckHomebrew/decky-loader#installation)
+- extract [plugin]() in `~/homebrew/plugins`
+- open plugin in decky sidebar
+
+---
 
 Reference example for using [decky-frontend-lib](https://github.com/SteamDeckHomebrew/decky-frontend-lib) in a [decky-loader](https://github.com/SteamDeckHomebrew/deckly-loader) plugin.
 

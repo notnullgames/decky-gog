@@ -44,3 +44,7 @@ yalc.lock
 # Ignore output folder
 
 backend/out
+
+gog.ini
+goglogin
+games.json

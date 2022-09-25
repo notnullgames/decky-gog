@@ -1,7 +1,7 @@
 {
-  "name": "decky-plugin-template",
+  "name": "decky-plugin-gog",
   "version": "0.0.1",
-  "description": "A template to quickly create decky plugins from scratch, based on TypeScript and webpack",
+  "description": "Decky plugin to install Gog games on steamdeck",
   "scripts": {
     "build": "shx rm -rf dist && rollup -c",
     "watch": "rollup -c -w",
@@ -9,21 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SteamDeckHomebrew/decky-plugin-template.git"
+    "url": "git+https://github.com/notnullgames/decky-gog.git"
   },
   "keywords": [
     "decky",
     "plugin",
-    "plugin-template",
+    "gog",
     "steam-deck",
     "deck"
   ],
-  "author": "Jonas Dellinger <jonas@dellinger.dev>",
+  "author": "David Konsumer <konsumer@jetboystudio.com>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/SteamDeckHomebrew/decky-plugin-template/issues"
+    "url": "https://github.com/notnullgames/decky-gog/issues"
   },
-  "homepage": "https://github.com/SteamDeckHomebrew/decky-plugin-template#readme",
+  "homepage": "https://github.com/notnullgames/decky-gog#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.1.0",
     "@rollup/plugin-json": "^4.1.0",

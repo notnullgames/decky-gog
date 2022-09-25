@@ -1,10 +1,10 @@
 {
-  "name": "Example Plugin",
-  "author": "John Doe",
-  "flags": ["debug", "_root"],
+  "name": "Decky Gog",
+  "author": "David Konsumer",
+  "flags": ["debug"],
   "publish": {
-    "tags": ["template", "root", "dnu"],
-    "description": "Decky example plugin.",
+    "tags": ["gog"],
+    "description": "Plugin to install Gog games on steamdeck",
     "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
   }
 }
