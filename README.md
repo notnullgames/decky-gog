@@ -14,3 +14,4 @@ This is a [decky](https://github.com/SteamDeckHomebrew/decky-loader) plugin for 
 - Look into [better database](https://api-docs.igdb.com/)
 - Look into adding other types of games
 - Help steam-rom-manager support stemdeck better
+- Look into adding data directly to gog-galaxy database (so all the other code can share data with windows gog galaxy)
